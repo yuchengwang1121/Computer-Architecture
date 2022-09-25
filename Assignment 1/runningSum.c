@@ -5,7 +5,7 @@ int* runningSum(int* nums, int numsSize, int* returnSize){
     
     
     for(int i=0; i<numsSize; i++){
-        if(i==0) result[i] = nums[i];
+        if(i==0) result[0] = nums[0];
         else result[i] = result[i-1] + nums[i];
     }
     
