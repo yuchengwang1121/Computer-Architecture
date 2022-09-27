@@ -1,2 +1,2 @@
 # Computer-Architecture
-### Assignment 1 : [Detail](https://hackmd.io/@zKOCm3SSTKyUyiPV-nfEjw/ryC8TgjZi)
+### Assignment 1 : [Detail Report](https://hackmd.io/@zKOCm3SSTKyUyiPV-nfEjw/ryC8TgjZi)
